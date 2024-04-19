@@ -1,19 +1,15 @@
-namespace projeto2
-
-prototipo obj = new prototipo();
-
-public partial prototipo
+namespace Projeto2
 {
-    public int temp{get; set;}
+    public class Prototipo
+    {
+        public int Temp { get; set; }
+        public string Time { get; set; }
+        public string Date { get; set; }
+        public int Total { get; set; }
 
-    public string time {get; set;}
-
-    public string date{get; set;}
-
-    public int total {get; set;}
-
-    public prototipo(){
-
+        public Prototipo()
+        {
+          
+        }
     }
-    
 }
