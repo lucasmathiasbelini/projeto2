@@ -2,7 +2,7 @@
 {
     public partial class MainPage : ContentPage
     {
-        const string url = "https://api.hgbrasil.com/weather?woeid=455927&key=SuaChaveAqui"; 
+        const string url = "https://api.hgbrasil.com/weather?woeid=455927&key="; 
         string result;
 
         public MainPage()
