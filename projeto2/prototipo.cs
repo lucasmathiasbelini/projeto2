@@ -2,22 +2,22 @@ namespace Projeto2
 {
     public class Prototipo
     {
-        public int Temp {get; set;} 
-    public int Sunrise {get; set;} 
-     public int Sunset {get; set;} 
-    public int Date {get; set;} 
-    public int Time {get; set;} 
-    public string Description {get; set;} 
-    public string Currently {get; set;} 
-    public string City {get; set;} 
-    public int Humidity {get; set;} 
-    public double Cloudness {get; set;} 
-    public double Rain {get; set;} 
-    public double WindSpeedy {get; set;} 
-    public string WindCardinal {get; set;} 
-    public int Condition_code {get; set;} 
-    public string MoonPhase {get; set;} 
-    public int Image_id {get; set;} 
+        public int temp {get; set;} 
+        public string sunrise {get; set;} 
+        public string sunset {get; set;} 
+        public string date {get; set;} 
+        public string time {get; set;} 
+        public string description {get; set;} 
+        public string currently {get; set;} 
+        public string city {get; set;} 
+        public string humidity {get; set;} 
+        public double cloudness {get; set;} 
+        public double rain {get; set;} 
+        public double windSpeedy {get; set;} 
+        public string windCardinal {get; set;} 
+        public int condition_code {get; set;} 
+        public string moonPhase {get; set;} 
+        public int image_id {get; set;} 
 
         public Prototipo()
         {

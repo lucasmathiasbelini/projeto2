@@ -8,8 +8,5 @@ public partial class AppShell : Shell
 	{
 		InitializeComponent();
 	}
-	void Testlayout()
-	{
-		result = new
-	}
+	
 }
