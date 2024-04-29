@@ -7,7 +7,7 @@ public partial class MainPage : ContentPage
 {
     Prototipo prototipo;
     Resposta resposta;
-    const string url = "https://api.hgbrasil.com/weather?woeid=455927&key="; 
+    const string url = "https://api.hgbrasil.com/weather?woeid=455927&key=1d935716"; 
     
     
     public MainPage(){
